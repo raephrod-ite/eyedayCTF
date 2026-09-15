@@ -1,0 +1,10 @@
+EYEDAY CTF
+
+The EyeDay development team recently deployed a new URL validation service.
+
+A security review suggests that some internal deployment artefacts may still be accessible through the application.
+
+Investigate the validator, enumerate any exposed internal resources, and recover the deployment reference before it is removed.
+
+Flag Format:
+sunctf26{...}
